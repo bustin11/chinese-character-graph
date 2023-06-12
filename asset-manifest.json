@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.9ad7170f.js",
-    "static/js/787.34885ec6.chunk.js": "/react-gh-pages/static/js/787.34885ec6.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.9ad7170f.js.map": "/react-gh-pages/static/js/main.9ad7170f.js.map",
-    "787.34885ec6.chunk.js.map": "/react-gh-pages/static/js/787.34885ec6.chunk.js.map"
+    "main.css": "/chinese-character-graph/static/css/main.073c9b0a.css",
+    "main.js": "/chinese-character-graph/static/js/main.6cf2ed14.js",
+    "static/js/787.34885ec6.chunk.js": "/chinese-character-graph/static/js/787.34885ec6.chunk.js",
+    "static/media/logo.svg": "/chinese-character-graph/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chinese-character-graph/index.html",
+    "main.073c9b0a.css.map": "/chinese-character-graph/static/css/main.073c9b0a.css.map",
+    "main.6cf2ed14.js.map": "/chinese-character-graph/static/js/main.6cf2ed14.js.map",
+    "787.34885ec6.chunk.js.map": "/chinese-character-graph/static/js/787.34885ec6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9ad7170f.js"
+    "static/js/main.6cf2ed14.js"
   ]
 }
